@@ -2,7 +2,7 @@
 
 <strong>ACTIVATION INSTRUCTIONS</strong><br>
 <br>
-  To start this program it is necessary to<br>
+  To start this program it is necessary to:
 <br><b>* chromedriver</b>
 <br><b>* selenium</b>
 <br><b>* python</b>
@@ -10,20 +10,11 @@
 <br>
 After having all the programs installed and in operation open your desired file editor in my case I'm using <b>atom</b>.
 <br>
-Then set the features you want
-<br>
-your <b>browser</b>
+Then set the features you want your <b>browser</b>
 <b>window_position</b>
-<b>window_size</b>
+<b>window_size</b> and replace all the places where the word <b>SITE</b> is written with your website in question after that, replace all the places where you have a TOKEN for your telegram bot ringtone and where you have the word <b><<chat_id>></b> replace the id of your <b>group</b> where the <b>bot is installed</b>
 
-and replace all the places where the word <b>SITE</b> is written with your website in question
 
-after that, replace all the places where you have TOKEM for your telegram bot ringtone and where you have the word <b><<chat_id>></b> replace the id of your <b>group</b> where the <b>bot is installed</b>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <b>SOFTWARE HISTORY AND DEVELOPMENT</b>
 
